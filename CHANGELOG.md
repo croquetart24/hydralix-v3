@@ -1,0 +1,3 @@
+3. 2025-08-24 — Añadidos comandos /ping, /server, /hapi, /cancel, barra de progreso mejorada y persistencia avanzada. Archivos modificados: main.py, utils/queue_manager.py, utils/user_config.py, lang/es.json, lang/en.json, CHANGELOG.md
+2. 2025-08-24 — Añadidos comandos de administración, log y anuncios, manejo de usuarios y textos en ambos idiomas. Archivos modificados: main.py, utils/user_config.py, utils/ad_manager.py, lang/es.json, lang/en.json, users.json, CHANGELOG.md
+1. 2025-08-24 — Integración inicial de Userbot y cola persistente. Archivos modificados: main.py, utils/userbot_engine.py, utils/queue_manager.py, utils/language.py, utils/user_config.py, lang/es.json, lang/en.json, requirements.txt, CHANGELOG.md
